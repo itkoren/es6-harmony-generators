@@ -1,0 +1,490 @@
+[
+    {
+        "steps": [
+            [
+                {
+                    "name": "p",
+                    "value": [
+                        {
+                            "name": "img",
+                            "attributes": {
+                                "src": "https://cloud.githubusercontent.com/assets/3624786/7671595/0644252c-fce0-11e4-9c7e-66eed3578ab5.png",
+                                "style": "width: 429px; height: 393px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 269px; top: -106px;",
+                                "class": "absolute-element"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "h2",
+                    "attributes": {
+                        "class": "absolute-element",
+                        "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 327px;"
+                    },
+                    "value": "ES6 Harmony Generators"
+                }
+            ],
+            [
+                {
+                    "name": "p",
+                    "value": [
+                        {
+                            "name": "img",
+                            "attributes": {
+                                "src": "https://cloud.githubusercontent.com/assets/3624786/7671561/9a4f9b72-fcde-11e4-9e92-5b38a7423737.png",
+                                "style": "width: 469px; height: 323px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 249px; top: -46px;",
+                                "class": "absolute-element"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "h2",
+                    "attributes": {
+                        "class": "absolute-element",
+                        "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 327px;"
+                    },
+                    "value": "Callback Hell"
+                }
+            ],
+            [{
+                "name": "div",
+                "value": [{
+                    "name": "iframe",
+                    "attributes": {
+                        "src": "//itkoren.github.io/egist/?data-gist-id=9869038&amp;data-gist-file=.21.callback.hell.template.js",
+                        "style": "width: 916px; height: 302px; max-height: none; max-width: none;"
+                    }
+                }]
+            }],
+            [{
+                "name": "h2",
+                "value": "Callback Hell"
+            }, {
+                "name": "p",
+                "attributes": {
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "0"
+                },
+                "value": "Bearable while execution flow is linear"
+            }, {
+                "name": "p",
+                "attributes": {
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "1"
+                },
+                "value": "BUT it can brunch!"
+            }, {
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/2970946/b93438ce-db63-11e3-9b1e-c4b91de1412a.png",
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "0",
+                    "style": "position: absolute; max-height: none; max-width: none; width: 646px; height: 410px; z-index: 4; left: 190px; top: 237px;"
+                }
+            }, {
+                "name": "img",
+                "attributes": {
+                    "src": "https://cloud.githubusercontent.com/assets/3624786/2971011/b7bff7c0-db64-11e3-9526-cde8df088341.png",
+                    "class": "absolute-element fragment",
+                    "data-fragment-index": "1",
+                    "style": "position: absolute; max-height: none; max-width: none; width: 646px; height: 410px; z-index: 5; left: 190px; top: 237px;"
+                }
+            }],
+            [{
+                "name": "h2",
+                "value": "Callback Hell (cont'd)"
+            }, {
+                "name": "p",
+                "value": "The code will become unmanageable, and:"
+            }, {
+                "name": "ul",
+                "value": [{
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "0"
+                    },
+                    "value": "Hard to know the order of the function calls"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "1"
+                    },
+                    "value": "Hard to achieve parallel execution"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "2"
+                    },
+                    "value": "Scoping becomes a real challenge"
+                }]
+            }],
+            [
+                {
+                    "name": "p",
+                    "value": [
+                        {
+                            "name": "img",
+                            "attributes": {
+                                "src": "https://cloud.githubusercontent.com/assets/3624786/7671655/0d419704-fce2-11e4-9a7f-fa3a2112dac7.png",
+                                "style": "width: 469px; height: 323px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 249px; top: -46px;",
+                                "class": "absolute-element"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "h2",
+                    "attributes": {
+                        "class": "absolute-element",
+                        "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 327px;"
+                    },
+                    "value": "Generators to the Rescue"
+                }
+            ],
+            [
+                {
+                    "name": "p",
+                    "value": [
+                        {
+                            "name": "img",
+                            "attributes": {
+                                "src": "https://cloud.githubusercontent.com/assets/3624786/7671745/bab2281c-fce3-11e4-80a5-a6f0beb06f2c.png",
+                                "style": "width: 469px; height: 323px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 249px; top: -46px;",
+                                "class": "absolute-element"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "h2",
+                    "attributes": {
+                        "class": "absolute-element",
+                        "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 327px;"
+                    },
+                    "value": "???"
+                },
+                {
+                    "name": "notes",
+                    "value": [
+                        "This is Barbara Liskov, Computer Science Prof.",
+                        "Liskov received the 2008 Turing Award, in March 2009, for her work in the design of programming languages and software methodology that led to the development of object-oriented programming",
+                        "Created CLU which is a pioneering programming language created at MIT, and is seen as a step in the development of object-oriented programming",
+                        "Known best for the Liskov Substitution Principle which states:",
+                        "If S is a subtype of T, then objects of type T may be replaced with objects of type S, without altering any of the desirable properties of that program"
+                    ]
+                }
+            ],
+            [{
+                "name": "h2",
+                "value": "Generators"
+            }, {
+                "name": "ul",
+                "value": [{
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "0"
+                    },
+                    "value": "First introduced at <a href=\"http://en.wikipedia.org/wiki/CLU_%28programming_language%29\">CLU</a> on 1974 (developed in MIT by Barbara Liskov - Known best for the Liskov Substitution Principle)"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "1"
+                    },
+                    "value": "Available today in languages like Python, Rubi and C#"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "2"
+                    },
+                    "value": "Function which returns an iterator"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "3"
+                    },
+                    "value": "An iterator is an object which enables us to traverse a container"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "4"
+                    },
+                    "value": "Iterators yield successive nextResult objects in response to .next() calls"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "5"
+                    },
+                    "value": "Lets you mark points in a function to suspend execution and return a value"
+                }]
+            }],
+            [{
+                "name": "div",
+                "value": [{
+                    "name": "iframe",
+                    "attributes": {
+                        "src": "//www.es6fiddle.net/embed/i9sw67oy/",
+                        "style": "width: 946px; height: 692px; max-height: none; max-width: none;"
+                    }
+                }]
+            }],
+            [{
+                "name": "div",
+                "value": [{
+                    "name": "iframe",
+                    "attributes": {
+                        "src": "//www.es6fiddle.net/embed/i9swd8ua/",
+                        "style": "width: 946px; height: 692px; max-height: none; max-width: none;"
+                    }
+                }]
+            }],
+            [{
+                "name": "div",
+                "value": [{
+                    "name": "iframe",
+                    "attributes": {
+                        "src": "//www.es6fiddle.net/embed/i9swi6ie/",
+                        "style": "width: 946px; height: 692px; max-height: none; max-width: none;"
+                    }
+                }]
+            }],
+            [
+                {
+                    "name": "h3",
+                    "value": "But we did not see the real power yet!!!"
+                }
+            ],
+            [{
+                "name": "h2",
+                "value": "Thunk"
+            }, {
+                "name": "p",
+                "value": "<br>"
+            }, {
+                "name": "p",
+                "attributes": {
+                    "class": "fragment",
+                    "data-fragment-index": "0"
+                },
+                "value": "A <a href=\"http://en.wikipedia.org/wiki/Thunk\" target=\"_blank\">thunk</a> is a <a href=\"http://en.wikipedia.org/wiki/Subroutine\" target=\"_blank\">subroutine</a> that is created, often automatically, to assist a call to another subroutine"
+            }, {
+                "name": "notes",
+                "value": [
+                    "A \"thunk\" is a subroutine that is created, often automatically, to assist a call to another subroutine",
+                    "This is implemented basically as a partially evaluated function with just the callback argument left over to be filled in",
+                    "",
+                    "Within generators, we’ll be yielding thunks to write programs without callbacks. A simple thunk is shown below.",
+                    "",
+                    "Since Node core functionality isn’t \"thunk\"-aware, we make it so by using the external \"co\"",
+                    "\"co\" takes a generator function which can be suspended at anytime using the \"yield\" keyword and manages its flow of execution by calling \"next\" upon yielding",
+                    "Do you remember factorial.js - lets see it again with generators, co and thunk"
+                ]
+            }],
+            [{
+                "name": "h2",
+                "value": "Thunk (cont'd)"
+            }, {
+                "name": "div",
+                "attributes": {
+                    "class": "absolute-element",
+                    "style": "position: absolute; width: 989px; height: 400px; max-height: none; max-width: none; left: 10px; top: 100px; z-index: 6;"
+                },
+                "value": [{
+                    "name": "iframe",
+                    "attributes": {
+                        "src": "//itkoren.github.io/egist/?data-gist-id=9869038&amp;data-gist-file=.22.callback.hell.generators.thunk.js",
+                        "style": "width: 100%; height: 100%;"
+                    }
+                }]
+            }, {
+                "name": "notes",
+                "value": [
+                    "A \"thunk\" is a subroutine that is created, often automatically, to assist a call to another subroutine",
+                    "This is implemented basically as a partially evaluated function with just the callback argument left over to be filled in",
+                    "",
+                    "Within generators, we’ll be yielding thunks to write programs without callbacks. A simple thunk is shown below.",
+                    "",
+                    "Since Node core functionality isn’t \"thunk\"-aware, we make it so by using the external \"co\"",
+                    "\"co\" takes a generator function which can be suspended at anytime using the \"yield\" keyword and manages its flow of execution by calling \"next\" upon yielding"
+                ]
+            }],
+            [
+                {
+                    "name": "h3",
+                    "value": "Promises can also be used (as a Thunk mechanism)"
+                }
+            ],
+            [{
+                "name": "div",
+                "value": [{
+                    "name": "iframe",
+                    "attributes": {
+                        "src": "//www.es6fiddle.net/embed/i9sxzbdp/",
+                        "style": "width: 946px; height: 692px; max-height: none; max-width: none;"
+                    }
+                }]
+            }],
+            [
+                {
+                    "name": "h3",
+                    "value": "But this is no better than callback hell!!!"
+                }
+            ],
+            [{
+                "name": "div",
+                "value": [{
+                    "name": "iframe",
+                    "attributes": {
+                        "src": "//jsfiddle.net/itkoren/j8bj516a/embedded/",
+                        "style": "width: 946px; height: 692px; max-height: none; max-width: none;"
+                    }
+                }]
+            }],
+            [
+                {
+                    "name": "h3",
+                    "value": "Awesome!!! What about Performance?"
+                }
+            ],
+            [
+                {
+                    "name": "h3",
+                    "value": "When benchmarking a readFile call using a callback versus generator yields, you will typically see results of callbacks almost 3 times faster"
+                }
+            ],
+            [
+                {
+                    "name": "h3",
+                    "value": "Generators are a brand new feature and not much work yet has gone into optimizing their performance in V8"
+                }
+            ],
+            [
+                {
+                    "name": "h3",
+                    "value": "While a single callback is certainly faster than running a generator that yields a single promise or thunk, the performance advantage of generators comes with operational complexity"
+                }
+            ],
+            [
+                {
+                    "name": "h3",
+                    "value": "<a href=\"http://koajs.com/\">KOA</a> is ExpressJS implementation using generators for control flow (instead of callbacks)"
+                }
+            ],
+            [{
+                "name": "h2",
+                "value": "KOA vs ExpressJS"
+            }, {
+                "name": "ul",
+                "value": [{
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "0"
+                    },
+                    "value": "CREATE - 583 vs 573 op/s"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "1"
+                    },
+                    "value": "READ - 1037 vs 862 op/s"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "2"
+                    },
+                    "value": "LIST - 50 vs 25 op/s"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "3"
+                    },
+                    "value": "UPDATE - 923 vs 712 op/s"
+                }, {
+                    "name": "li",
+                    "attributes": {
+                        "class": "fragment",
+                        "data-fragment-index": "4"
+                    },
+                    "value": "DESTROY - 1104 vs 834 op/s"
+                }]
+            }],
+            [
+                {
+                    "name": "h3",
+                    "value": "Koa is noticeably faster"
+                }, {
+                    "name": "notes",
+                    "value": [
+                        "The VM simply has less stuff to juggle to make your app function.",
+                        "With each function you create, the VM has to do more work to keep track of things like variable availability in different scopes or what this is bound to."
+                    ]
+                }
+            ],
+            [
+                {
+                    "name": "p",
+                    "value": [
+                        {
+                            "name": "img",
+                            "attributes": {
+                                "src": "https://cloud.githubusercontent.com/assets/3624786/7672554/19f77596-fcff-11e4-81ab-737872c198ab.png",
+                                "style": "width: 469px; height: 323px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 249px; top: -46px;",
+                                "class": "absolute-element"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "h3",
+                    "attributes": {
+                        "class": "absolute-element",
+                        "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 327px;"
+                    },
+                    "value": "Koa is also noticeably more consistent"
+                }
+            ],
+            [
+                {
+                    "name": "h3",
+                    "value": "You Better Try it Yourself!!!"
+                }
+            ],
+            [
+                {
+                    "name": "p",
+                    "value": [
+                        {
+                            "name": "img",
+                            "attributes": {
+                                "src": "https://cloud.githubusercontent.com/assets/3624786/7672579/e28b4082-fcff-11e4-8d2f-831ee9a7fb4b.png",
+                                "style": "width: 469px; height: 323px; max-height: none; max-width: none; position: absolute; z-index: 4; left: 249px; top: -46px;",
+                                "class": "absolute-element"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "h3",
+                    "attributes": {
+                        "class": "absolute-element",
+                        "style": "position: absolute; width: 586px; height: 65px; z-index: 4; left: 200px; top: 327px;"
+                    },
+                    "value": "Thanks"
+                }
+            ]
+        ]
+    }
+]
