@@ -73,7 +73,7 @@
                     "class": "absolute-element fragment",
                     "data-fragment-index": "1"
                 },
-                "value": "BUT it can brunch!"
+                "value": "BUT it can branch!"
             }, {
                 "name": "img",
                 "attributes": {
@@ -196,7 +196,7 @@
                         "class": "fragment",
                         "data-fragment-index": "1"
                     },
-                    "value": "Available today in languages like Python, Rubi and C#"
+                    "value": "Available today in languages like Python, Ruby and C#"
                 }, {
                     "name": "li",
                     "attributes": {
